@@ -2,29 +2,28 @@
 <h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
 
 <p align="center">
-  <!-- Instagram -->
-  <a href="https://instagram.com/mahmoudsallamc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/>
+  <!-- Social Media -->
+  <a href="https://instagram.com/mahmoudsallamc">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/mahmoudsallamc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/mahmoudsallamc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@mahmoudsallam-10/videos/?sub_confirmation=1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="48" height="48" alt="YouTube"/>
+  <a href="https://www.youtube.com/@mahmoudsallam-10/videos/?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <!-- Facebook -->
-  <a href="https://facebook.com/mahmoudsallamc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="48" height="48" alt="Facebook"/>
+  <a href="https://facebook.com/mahmoudsallamc">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+</p>
 
+<p align="center">
   <!-- Website -->
-  <a href="https://mahmoudsallamc.blogspot.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=chrome" width="48" height="48" alt="Website"/>
+  <a href="https://mahmoudsallamc.blogspot.com">
+    <img src="https://img.shields.io/badge/Website-Mahmoud%20Sallam-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
